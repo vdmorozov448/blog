@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub | </title>
+    <link>https://vdmorozov448.github.io/ru/tags/github/</link>
+      <atom:link href="https://vdmorozov448.github.io/ru/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <description>GitHub</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vdmorozov448.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>GitHub</title>
+      <link>https://vdmorozov448.github.io/ru/tags/github/</link>
+    </image>
+    
+    <item>
+      <title>Мой первый опыт работы с GitHub</title>
+      <link>https://vdmorozov448.github.io/ru/publications/01/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://vdmorozov448.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-знакомство-с-github&#34;&gt;💻 Знакомство с GitHub&lt;/h2&gt;
+&lt;p&gt;На этой неделе я начал подробнее изучать &lt;strong&gt;GitHub&lt;/strong&gt; — одну из самых популярных платформ для хранения и совместной разработки программного кода. Для студента направления «Компьютерные науки» это важный инструмент, который используется как в учебных проектах, так и в реальной работе разработчиков.&lt;/p&gt;
+&lt;h2 id=&#34;-что-я-узнал&#34;&gt;🚀 Что я узнал&lt;/h2&gt;
+&lt;p&gt;Во время изучения GitHub я познакомился с несколькими основными понятиями:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📂 &lt;strong&gt;Репозитории&lt;/strong&gt; — место, где хранится код проекта и все связанные с ним файлы.&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Система контроля версий Git&lt;/strong&gt; — позволяет отслеживать изменения в коде и возвращаться к предыдущим версиям проекта.&lt;/li&gt;
+&lt;li&gt;🧑‍💻 &lt;strong&gt;Коммиты&lt;/strong&gt; — фиксация изменений в проекте с описанием того, что было сделано.&lt;/li&gt;
+&lt;li&gt;🌐 &lt;strong&gt;Удалённые репозитории&lt;/strong&gt; — возможность хранить проекты онлайн и работать с ними с разных устройств.&lt;/li&gt;
+&lt;li&gt;🤝 &lt;strong&gt;Совместная разработка&lt;/strong&gt; — несколько разработчиков могут одновременно работать над одним проектом.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-github-важен&#34;&gt;📚 Почему GitHub важен&lt;/h2&gt;
+&lt;p&gt;GitHub используется практически во всех IT-компаниях и проектах с открытым исходным кодом. Он помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;организовать код проекта&lt;/li&gt;
+&lt;li&gt;контролировать изменения&lt;/li&gt;
+&lt;li&gt;работать в команде&lt;/li&gt;
+&lt;li&gt;делиться своими разработками с другими разработчиками&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Кроме того, GitHub часто служит &lt;strong&gt;портфолио программиста&lt;/strong&gt;, где можно показать свои проекты и навыки.&lt;/p&gt;
+&lt;h2 id=&#34;-моя-практика&#34;&gt;🔧 Моя практика&lt;/h2&gt;
+&lt;p&gt;На практике я попробовал:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;создать свой первый репозиторий&lt;/li&gt;
+&lt;li&gt;загрузить в него учебный проект&lt;/li&gt;
+&lt;li&gt;сделать несколько коммитов с изменениями&lt;/li&gt;
+&lt;li&gt;изучить структуру проекта на GitHub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Это помогло мне лучше понять, как организуется работа над программным кодом.&lt;/p&gt;
+&lt;h2 id=&#34;-итог&#34;&gt;🌱 Итог&lt;/h2&gt;
+&lt;p&gt;Знакомство с GitHub стало важным шагом в моём обучении программированию. Этот инструмент помогает не только хранить код, но и развивать навыки командной работы и профессиональной разработки.&lt;/p&gt;
+&lt;p&gt;В будущем я планирую публиковать свои учебные проекты на GitHub и постепенно развивать собственное портфолио разработчика.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Life | </title>
+    <link>https://vdmorozov448.github.io/ru/tags/student-life/</link>
+      <atom:link href="https://vdmorozov448.github.io/ru/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Life</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vdmorozov448.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Student Life</title>
+      <link>https://vdmorozov448.github.io/ru/tags/student-life/</link>
+    </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://vdmorozov448.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://vdmorozov448.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта учебная неделя оказалась насыщенной новыми знаниями и практическими задачами. Каждый день приносил что-то новое и помогал лучше понимать мир компьютерных технологий.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На занятиях по &lt;strong&gt;компьютерным наукам&lt;/strong&gt; мы разбирали основы алгоритмов и обсуждали, как эффективно решать вычислительные задачи. Это помогло лучше понять принципы построения программ.&lt;/li&gt;
+&lt;li&gt;💻 Практиковался в &lt;strong&gt;программировании&lt;/strong&gt;, писал небольшие программы и закреплял знания по структурам данных и логике кода.&lt;/li&gt;
+&lt;li&gt;🧠 На лекциях по &lt;strong&gt;дискретной математике&lt;/strong&gt; изучали логические выражения и основы математического мышления, которые важны для разработки алгоритмов.&lt;/li&gt;
+&lt;li&gt;🗄 Познакомился с базовыми принципами &lt;strong&gt;работы с базами данных&lt;/strong&gt; и понял, насколько важна правильная организация информации в современных системах.&lt;/li&gt;
+&lt;li&gt;🤝 Работал над учебными заданиями и обсуждал решения с одногруппниками — совместная работа часто помогает увидеть новые подходы к задачам.&lt;/li&gt;
+&lt;li&gt;🌿 В свободное время старался немного отвлечься от учебы: прогулки и отдых помогают восстановить силы и сохранять продуктивность.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая неделя в университете приближает меня к цели — стать специалистом в области компьютерных наук и научиться создавать полезные технологические решения.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
