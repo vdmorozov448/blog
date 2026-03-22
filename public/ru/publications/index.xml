@@ -5,12 +5,55 @@
     <link>https://vdmorozov448.github.io/ru/publications/</link>
       <atom:link href="https://vdmorozov448.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vdmorozov448.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://vdmorozov448.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://vdmorozov448.github.io/ru/publications/02/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://vdmorozov448.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;✍️ Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки — это простой и удобный способ форматирования текста без сложных инструментов. Они широко используются в программировании, документации и даже повседневной работе с текстом.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;📄 &lt;strong&gt;Что это такое?&lt;/strong&gt;
+Легковесные языки разметки позволяют добавлять структуру и оформление тексту с помощью минимального набора символов. В отличие от сложных систем, они легко читаются даже в «сыром» виде.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;⚙️ &lt;strong&gt;Популярные примеры&lt;/strong&gt;
+Наиболее известные языки — это &lt;strong&gt;Markdown&lt;/strong&gt;, &lt;strong&gt;HTML (в упрощённом виде)&lt;/strong&gt; и &lt;strong&gt;reStructuredText&lt;/strong&gt;. Они применяются в README-файлах, блогах и технической документации.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💻 &lt;strong&gt;Где используются?&lt;/strong&gt;
+Такие языки активно применяются на платформах вроде GitHub, в системах управления контентом и при написании технических статей.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;🚀 &lt;strong&gt;Преимущества&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Простота изучения&lt;/li&gt;
+&lt;li&gt;Быстрая работа с текстом&lt;/li&gt;
+&lt;li&gt;Универсальность&lt;/li&gt;
+&lt;li&gt;Поддержка на разных платформах&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;🧠 &lt;strong&gt;Почему это важно?&lt;/strong&gt;
+Умение работать с легковесными языками разметки помогает быстрее оформлять идеи, писать документацию и структурировать информацию.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📚 &lt;strong&gt;Личный опыт&lt;/strong&gt;
+За время обучения я начал активно использовать Markdown для заметок и учебных заданий. Это значительно упростило работу с текстом и помогло лучше организовать материалы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Легковесные языки разметки — это мощный инструмент, который делает работу с текстом быстрее и удобнее.&lt;/p&gt;
+&lt;p&gt;А вы используете Markdown или другие языки разметки? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Мой первый опыт работы с GitHub</title>

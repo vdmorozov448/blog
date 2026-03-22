@@ -54,15 +54,13 @@
       href="https://vdmorozov448.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
-    <loc>https://vdmorozov448.github.io/ru/tags/computer-science/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://vdmorozov448.github.io/ru/tags/computer-science/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://vdmorozov448.github.io/ru/tags/development/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://vdmorozov448.github.io/ru/tags/documentation/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://vdmorozov448.github.io/ru/tags/github/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://vdmorozov448.github.io/ru/tags/programming/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://vdmorozov448.github.io/ru/tags/programming/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://vdmorozov448.github.io/ru/publications/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://vdmorozov448.github.io/ru/publications/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://vdmorozov448.github.io/publications/"
@@ -72,7 +70,7 @@
       href="https://vdmorozov448.github.io/ru/publications/"
     /></url>
   <url>
-    <loc>https://vdmorozov448.github.io/ru/tags/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://vdmorozov448.github.io/ru/tags/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://vdmorozov448.github.io/tags/"
@@ -82,9 +80,9 @@
       href="https://vdmorozov448.github.io/ru/tags/"
     /></url>
   <url>
-    <loc>https://vdmorozov448.github.io/ru/publications/01/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://vdmorozov448.github.io/ru/publications/02/</loc><lastmod>2026-03-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://vdmorozov448.github.io/ru/tags/academic/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://vdmorozov448.github.io/ru/tags/academic/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://vdmorozov448.github.io/tags/academic/"
@@ -94,7 +92,7 @@
       href="https://vdmorozov448.github.io/ru/tags/academic/"
     /></url>
   <url>
-    <loc>https://vdmorozov448.github.io/ru/blog/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://vdmorozov448.github.io/ru/blog/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://vdmorozov448.github.io/blog/"
@@ -104,7 +102,15 @@
       href="https://vdmorozov448.github.io/ru/blog/"
     /></url>
   <url>
-    <loc>https://vdmorozov448.github.io/ru/tags/student-life/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://vdmorozov448.github.io/ru/tags/student-life/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://vdmorozov448.github.io/ru/blog/02/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://vdmorozov448.github.io/ru/tags/development/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://vdmorozov448.github.io/ru/tags/github/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://vdmorozov448.github.io/ru/publications/01/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://vdmorozov448.github.io/ru/blog/01/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
