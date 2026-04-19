@@ -777,30 +777,6 @@ Thank you for your attention! Feel free to reach out with questions or contribut
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>https://vdmorozov448.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://vdmorozov448.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://vdmorozov448.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://vdmorozov448.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://vdmorozov448.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://vdmorozov448.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Embed Media</title>
       <link>https://vdmorozov448.github.io/ru/courses/hugo-blox/guide/formatting/media/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>

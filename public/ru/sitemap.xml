@@ -190,66 +190,6 @@
       href="https://vdmorozov448.github.io/ru/slides/"
     /></url>
   <url>
-    <loc>https://vdmorozov448.github.io/ru/tags/hugo/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://vdmorozov448.github.io/tags/hugo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://vdmorozov448.github.io/ru/tags/hugo/"
-    /></url>
-  <url>
-    <loc>https://vdmorozov448.github.io/ru/tags/hugoblox/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://vdmorozov448.github.io/tags/hugoblox/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://vdmorozov448.github.io/ru/tags/hugoblox/"
-    /></url>
-  <url>
-    <loc>https://vdmorozov448.github.io/ru/tags/markdown/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://vdmorozov448.github.io/tags/markdown/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://vdmorozov448.github.io/ru/tags/markdown/"
-    /></url>
-  <url>
-    <loc>https://vdmorozov448.github.io/ru/projects/pandas/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://vdmorozov448.github.io/projects/pandas/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://vdmorozov448.github.io/ru/projects/pandas/"
-    /></url>
-  <url>
-    <loc>https://vdmorozov448.github.io/ru/projects/pytorch/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://vdmorozov448.github.io/projects/pytorch/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://vdmorozov448.github.io/ru/projects/pytorch/"
-    /></url>
-  <url>
-    <loc>https://vdmorozov448.github.io/ru/projects/scikit/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://vdmorozov448.github.io/projects/scikit/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://vdmorozov448.github.io/ru/projects/scikit/"
-    /></url>
-  <url>
     <loc>https://vdmorozov448.github.io/ru/courses/hugo-blox/guide/formatting/media/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -298,6 +238,16 @@
       rel="alternate"
       hreflang="ru"
       href="https://vdmorozov448.github.io/ru/events/example/"
+    /></url>
+  <url>
+    <loc>https://vdmorozov448.github.io/ru/tags/markdown/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://vdmorozov448.github.io/tags/markdown/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://vdmorozov448.github.io/ru/tags/markdown/"
     /></url>
   <url>
     <loc>https://vdmorozov448.github.io/ru/tags/open-science/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
